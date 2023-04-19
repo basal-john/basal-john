@@ -22,3 +22,6 @@
   <img src="https://img.shields.io/badge/-CodeceptJS-06BEE1?style=flat-square&logo=codeceptjs&logoColor=white" alt="CodeceptJS"/>
    <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basal-john&layout=compact&theme=radical)](https://github.com/basal-john/github-readme-stats)
+
