@@ -10,7 +10,7 @@
   <a href="https://twitter.com/basal_ona" target="_blank"><img src="https://img.shields.io/twitter/follow/basal_ona?style=social&logo=twitter" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/basaljohn/" target="_blank"><img src="https://img.shields.io/badge/-Basal%20John-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basaljohn/" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/basal_john/" target="_blank"><img src="https://img.shields.io/badge/-Basal%20John-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/basal_john/" alt="Instagram"></a>
-  <a href="https://github.com/basaljohn" target="_blank"><img src="https://img.shields.io/github/followers/basaljohn?style=social&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/basal-john" target="_blank"><img src="https://img.shields.io/github/followers/basal-john?style=social&logo=github" alt="GitHub"></a>
 </p>
 <h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left">
