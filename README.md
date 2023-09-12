@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Basal John!</h1>
-<h3 align="center">A Software Quality Engineer who's out to exterminate bugs! 🐛🔨 Making sure software works like a charm and brings joy to people's lives! 💻🎉</h3>
+<h3 align="center">Engineering Manager at Thomann Music, Specializing in Quality Engineering 🎵🔍</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=basaljohn&style=flat-square&color=blueviolet" alt="basaljohn" />
   <img src="https://img.shields.io/badge/-Quality%20Engineering-red?style=flat-square&logo=checkmarx&logoColor=white" alt="Quality Engineering" />
